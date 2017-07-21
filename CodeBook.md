@@ -36,4 +36,5 @@
 8.  Write the final tidyData data table to the result.txt file  
 
 ## Output Data
-The output is saved to result.txt file. The first row is a header with the SubjectId, Activity, Measure and Value strings. The file contains 11880 data rows. The values are separated by commas.
+The output is saved to result.txt file. The first row is a header with the SubjectId, Activity, Measure and Value strings. 
+The file contains 11880 data rows. The values are separated by commas.
